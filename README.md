@@ -1,4 +1,4 @@
-# NCBI-blast-project
+# Identify an unknown Biological Sequence Using BLAST activity 2
 Activity: Identify an Unknown Biological Sequence Using BLAST Tool Used
 Author: Yuvraj Rana
 
