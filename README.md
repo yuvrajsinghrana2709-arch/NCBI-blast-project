@@ -86,3 +86,12 @@ Conservation: Conserved within Ebola virus strains
 
 The given unknown sequence is identified as a gene fragment from Zaire ebolavirus.
 BLAST analysis shows a 99% identity and an E-value of 7e-107, indicating an extremely strong match.
+
+![WhatsApp Image 2026-01-22 at 8 08 17 PM](https://github.com/user-attachments/assets/543eaafa-a34b-4088-bab4-2571452a2abe)
+
+![WhatsApp Image 2026-01-22 at 8 08 18 PM 1](https://github.com/user-attachments/assets/557292b1-5ab3-427f-8504-dc0aa8045328)
+
+![WhatsApp Image 2026-01-22 at 8 08 18 PM](https://github.com/user-attachments/assets/0c35423a-d5c7-4635-a102-de6e93992ef1)
+
+
+
