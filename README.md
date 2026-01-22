@@ -8,7 +8,7 @@ Tool Used
 
 NCBI BLAST (BLASTn)
 
-#Aim
+# Aim:
 
 To identify an unknown nucleotide sequence using the BLAST tool and determine its organism and biological significance
 
